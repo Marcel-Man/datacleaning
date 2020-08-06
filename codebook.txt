@@ -1,0 +1,68 @@
+1	 subject                                                                        (Integer) ID for the subject (person) who participated in the experiment. Can be 1 to 30  
+2	 action	                                                                        (Integer) Action performed by the subject in the experiment. 1=WALKING, 2=WALKING_UPSTAIRS, 3=WALKING_DOWNSTAIRS, 4=SITTING, 5=STANDING, 6=LAYING
+3	 TimeDomainBodyAccelerometerMeanInXAxis                                  	(Double) Average value of means for Body Accerlerometer in time domain X-axis
+4	 TimeDomainBodyAccelerometerMeanInYAxis                                  	(Double) Average value of means for Body Accerlerometer in time domain Y-axis
+5	 TimeDomainBodyAccelerometerMeanInZAxis                                  	(Double) Average value of means for Body Accerlerometer in time domain Z-axis
+6	 TimeDomainBodyAccelerometerStandardDeviationInXAxis                     	(Double) Average value of standard deviations for Body Accerlerometer in time domain X-axis
+7	 TimeDomainBodyAccelerometerStandardDeviationInYAxis                     	(Double) Average value of standard deviations for Body Accerlerometer in time domain Y-axis
+8	 TimeDomainBodyAccelerometerStandardDeviationInZAxis                     	(Double) Average value of standard deviations for Body Accerlerometer in time domain Z-axis
+9	 TimeDomainGravityAccelerometerMeanInXAxis                               	(Double) Average value of means for gravity Accerlerometer in time domain X-axis
+10	 TimeDomainGravityAccelerometerMeanInYAxis                               	(Double) Average value of means for gravity Accerlerometer in time domain Y-axis
+11	 TimeDomainGravityAccelerometerMeanInZAxis                               	(Double) Average value of means for gravity Accerlerometer in time domain Z-axis
+12	 TimeDomainGravityAccelerometerStandardDeviationInXAxis                  	(Double) Average value of standard deviations for gravity Accerlerometer in time domain X-axis
+13	 TimeDomainGravityAccelerometerStandardDeviationInYAxis                  	(Double) Average value of standard deviations for gravity Accerlerometer in time domain Y-axis
+14	 TimeDomainGravityAccelerometerStandardDeviationInZAxis                  	(Double) Average value of standard deviations for gravity Accerlerometer in time domain Z-axis
+15	 TimeDomainBodyAccelerometerJerkSignalMeanInXAxis                        	(Double) Average value of means for Body Accerlerometer Jerk signals in time domain X-axis
+16	 TimeDomainBodyAccelerometerJerkSignalMeanInYAxis                        	(Double) Average value of means for Body Accerlerometer Jerk signals in time domain Y-axis
+17	 TimeDomainBodyAccelerometerJerkSignalMeanInZAxis                        	(Double) Average value of means for Body Accerlerometer Jerk signals in time domain Z-axis
+18	 TimeDomainBodyAccelerometerJerkSignalStandardDeviationInXAxis           	(Double) Average value of standar deviations for Body Accerlerometer Jerk signals in time domain X-axis
+19	 TimeDomainBodyAccelerometerJerkSignalStandardDeviationInYAxis           	(Double) Average value of standar deviations for Body Accerlerometer Jerk signals in time domain Y-axis
+20	 TimeDomainBodyAccelerometerJerkSignalStandardDeviationInZAxis           	(Double) Average value of standar deviations for Body Accerlerometer Jerk signals in time domain Z-axis
+21	 TimeDomainBodyGyroscopeMeanInXAxis                                      	(Double) Average value of means for Body Gyroscope in time domain X-axis
+22	 TimeDomainBodyGyroscopeMeanInYAxis                                      	(Double) Average value of means for Body Gyroscope in time domain Y-axis
+23	 TimeDomainBodyGyroscopeMeanInZAxis                                      	(Double) Average value of means for Body Gyroscope in time domain Z-axis
+24	 TimeDomainBodyGyroscopeStandardDeviationInXAxis                         	(Double) Average value of standard deviations for Body Gyroscope in time domain X-axis
+25	 TimeDomainBodyGyroscopeStandardDeviationInYAxis                         	(Double) Average value of standard deviations for Body Gyroscope in time domain Y-axis
+26	 TimeDomainBodyGyroscopeStandardDeviationInZAxis                         	(Double) Average value of standard deviations for Body Gyroscope in time domain Z-axis
+27	 TimeDomainBodyGyroscopeJerkSignalMeanInXAxis                            	(Double) Average value of means for Body Gyroscope Jerk signals in time domain X-axis
+28	 TimeDomainBodyGyroscopeJerkSignalMeanInYAxis                            	(Double) Average value of means for Body Gyroscope Jerk signals in time domain Y-axis
+29	 TimeDomainBodyGyroscopeJerkSignalMeanInZAxis                            	(Double) Average value of means for Body Gyroscope Jerk signals in time domain Z-axis
+30	 TimeDomainBodyGyroscopeJerkSignalStandardDeviationInXAxis               	(Double) Average value of standard deviations for Body Gyroscope Jerk signals in time domain X-axis
+31	 TimeDomainBodyGyroscopeJerkSignalStandardDeviationInYAxis               	(Double) Average value of standard deviations for Body Gyroscope Jerk signals in time domain Y-axis
+32	 TimeDomainBodyGyroscopeJerkSignalStandardDeviationInZAxis               	(Double) Average value of standard deviations for Body Gyroscope Jerk signals in time domain Z-axis
+33	 TimeDomainBodyAccelerometerMagnitudeMean                                	(Double) Average value of means for Body Accerlerometer magnitude in time domain
+34	 TimeDomainBodyAccelerometerMagnitudeStandardDeviation                   	(Double) Average value of standard deviations for Body Accerlerometer magnitude in time domain
+35	 TimeDomainGravityAccelerometerMagnitudeMean                             	(Double) Average value of means for gravity Accerlerometer magnitude in time domain
+36	 TimeDomainGravityAccelerometerMagnitudeStandardDeviation                	(Double) Average value of standard deviations for gravity Accerlerometer magnitude in time domain
+37	 TimeDomainBodyAccelerometerJerkSignalMagnitudeMean                      	(Double) Average value of means for Body Accerlerometer Jerk signal magnitude in time domain
+38	 TimeDomainBodyAccelerometerJerkSignalMagnitudeStandardDeviation         	(Double) Average value of standard deviations for Body Accerlerometer Jerk signal magnitude in time domain
+39	 TimeDomainBodyGyroscopeMagnitudeMean                                    	(Double) Average value of means for Body Gyroscope magnitude in time domain
+40	 TimeDomainBodyGyroscopeMagnitudeStandardDeviation                       	(Double) Average value of standard deviations for Body Gyroscope magnitude in time domain
+41	 TimeDomainBodyGyroscopeJerkSignalMagnitudeMean                          	(Double) Average value of means for Body Gyroscope Jerk signal magnitude in time domain
+42	 TimeDomainBodyGyroscopeJerkSignalMagnitudeStandardDeviation             	(Double) Average value of standard deviations for Body Gyroscope Jerk signal magnitude in time domain
+43	 FrequencyDomainBodyAccelerometerMeanInXAxis                             	(Double) Average value of means for Body Accerlerometer in time domain X-axis
+44	 FrequencyDomainBodyAccelerometerMeanInYAxis                             	(Double) Average value of means for Body Accerlerometer in time domain Y-axis
+45	 FrequencyDomainBodyAccelerometerMeanInZAxis                             	(Double) Average value of means for Body Accerlerometer in time domain Z-axis
+46	 FrequencyDomainBodyAccelerometerStandardDeviationInXAxis                	(Double) Average value of standard deviations for Body Accerlerometer in time domain X-axis
+47	 FrequencyDomainBodyAccelerometerStandardDeviationInYAxis                	(Double) Average value of standard deviations for Body Accerlerometer in time domain Y-axis
+48	 FrequencyDomainBodyAccelerometerStandardDeviationInZAxis                	(Double) Average value of standard deviations for Body Accerlerometer in time domain Z-axis
+49	 FrequencyDomainBodyAccelerometerJerkSignalMeanInXAxis                   	(Double) Average value of means for Body Accerlerometer Jerk signal in time domain X-axis
+50	 FrequencyDomainBodyAccelerometerJerkSignalMeanInYAxis                   	(Double) Average value of means for Body Accerlerometer Jerk signal in time domain Y-axis
+51	 FrequencyDomainBodyAccelerometerJerkSignalMeanInZAxis                   	(Double) Average value of means for Body Accerlerometer Jerk signal in time domain Z-axis
+52	 FrequencyDomainBodyAccelerometerJerkSignalStandardDeviationInXAxis      	(Double) Average value of standard deviations for Body Accerlerometer Jerk signal in time domain X-axis
+53	 FrequencyDomainBodyAccelerometerJerkSignalStandardDeviationInYAxis      	(Double) Average value of standard deviations for Body Accerlerometer Jerk signal in time domain Y-axis
+54	 FrequencyDomainBodyAccelerometerJerkSignalStandardDeviationInZAxis      	(Double) Average value of standard deviations for Body Accerlerometer Jerk signal in time domain Z-axis
+55	 FrequencyDomainBodyGyroscopeMeanInXAxis                                 	(Double) Average value of means for Body Gyroscope in time domain X-axis
+56	 FrequencyDomainBodyGyroscopeMeanInYAxis                                 	(Double) Average value of means for Body Gyroscope in time domain Y-axis
+57	 FrequencyDomainBodyGyroscopeMeanInZAxis                                 	(Double) Average value of means for Body Gyroscope in time domain Z-axis
+58	 FrequencyDomainBodyGyroscopeStandardDeviationInXAxis                    	(Double) Average value of standard deviations for Body Gyroscope in time domain X-axis
+59	 FrequencyDomainBodyGyroscopeStandardDeviationInYAxis                    	(Double) Average value of standard deviations for Body Gyroscope in time domain Y-axis
+60	 FrequencyDomainBodyGyroscopeStandardDeviationInZAxis                    	(Double) Average value of standard deviations for Body Gyroscope in time domain Z-axis
+61	 FrequencyDomainBodyAccelerometerMagnitudeMean                           	(Double) Average value of means for Body Accerlerometer magnitude in time domain X-axis
+62	 FrequencyDomainBodyAccelerometerMagnitudeStandardDeviation              	(Double) Average value of standard deviations for Body Accerlerometer magnitude in time domain X-axis
+63	 FrequencyDomainBodyBodyAccelerometerJerkSignalMagnitudeMean             	(Double) Average value of means for Body Accerlerometer Jerk signal magnitude in time domain X-axis
+64	 FrequencyDomainBodyBodyAccelerometerJerkSignalMagnitudeStandardDeviation	(Double) Average value of standard deviations for Body Accerlerometer Jerk signal magnitude in time domain X-axis
+65	 FrequencyDomainBodyBodyGyroscopeMagnitudeMean                           	(Double) Average value of means for Body Gyroscope magnitude in time domain X-axis
+66	 FrequencyDomainBodyBodyGyroscopeMagnitudeStandardDeviation              	(Double) Average value of standard deviations for Body Gyroscope magnitude in time domain X-axis
+67	 FrequencyDomainBodyBodyGyroscopeJerkSignalMagnitudeMean                 	(Double) Average value of means for Body Gyroscope Jerk signal magnitude in time domain X-axis
+68	 FrequencyDomainBodyBodyGyroscopeJerkSignalMagnitudeStandardDeviation    	(Double) Average value of standard deviations for Body Gyroscope Jerk signal magnitude in time domain X-axis
